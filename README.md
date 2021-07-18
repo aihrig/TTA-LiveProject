@@ -258,4 +258,4 @@ This was a short but productive 2-week sprint, and I really enjoyed my time delv
 
 As always, I really enjoyed standing up a back-end RESTful API with Node.js and Express.js. One of my favorite things to do is connecting systems together (see my [Conductor 2](https://github.com/aihrig/Conductor2) project connecting a LEGO train via pub/sub to a front-end). This project gave me the opportunity become more familiar with front-end frameworks and ensuring that both the front and back-end systems worked together.
 
-Jump to [Top](#Live-Project), [Back-end](#back-end), [Front-End](#front-end)
+Jump to [Top](#JavaScript-Live-Project), [Back-end](#back-end), [Front-End](#front-end)
