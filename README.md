@@ -10,6 +10,12 @@ I was able to leverage a lot of my previous work experience with Node.JS and Exp
 
 Below are some of the highlights of the project.
 
+- [Back-End](#back-end)
+- [Front-End](#front-end)
+- [Summary](#summary)
+
+![image](https://user-images.githubusercontent.com/12666421/126054147-a62a15e8-815f-49a0-bf43-b48988399ca3.png)
+
 ## Back-end
 - [Weather Condition Controller](#Weather-Condition-Controller)
 - [Restaurant Controller](#Restaurant-Controller)
