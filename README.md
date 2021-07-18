@@ -11,8 +11,8 @@ I was able to leverage a lot of my previous work experience with Node.JS and Exp
 Below are some of the highlights of the project.
 
 ## Back-end
-- [Weather Condition Controller](Weather-Condition-Controller)
-- [Restaurant Controller](Restaurant-Controller)
+- [Weather Condition Controller](#Weather-Condition-Controller)
+- [Restaurant Controller](#Restaurant-Controller)
 
 ## Weather Condition Controller
 This controller was designed to simply pull the current weather icon and temperature from an external REST API to be displayed on the front-end navbar.
@@ -133,8 +133,8 @@ exports.updateById = (req, res) => {
 ```
 
 ## Front-end
-- [Tile Component](tile-component)
-- [Data service](data-service)
+- [Tile Component](#tile-component)
+- [Data service](#data-service)
 
 ## Tile Component
 I built a component that would render a tile with an animated thumbnail image, short description and an external link (the restaurant or tour in this case), so that changes to the design could be easily made anywhere it was used.
@@ -258,4 +258,4 @@ This was a short but productive 2-week sprint, and I really enjoyed my time delv
 
 As always, I really enjoyed standing up a back-end RESTful API with Node.js and Express.js. One of my favorite things to do is connecting systems together (see my [Conductor 2](https://github.com/aihrig/Conductor2) project connecting a LEGO train via pub/sub to a front-end). This project gave me the opportunity become more familiar with front-end frameworks and ensuring that both the front and back-end systems worked together.
 
-Jump to [Top](Live-Project), [Back-end](back-end), [Front-End](front-end)
+Jump to [Top](#Live-Project), [Back-end](#back-end), [Front-End](#front-end)
