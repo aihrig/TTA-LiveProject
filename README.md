@@ -8,6 +8,8 @@ I've worked with HTML and CSS previously, but not at this level. So building the
 
 I was able to leverage a lot of my previous work experience with Node.JS and Express.JS to quickly build the back-end RESTful API/controllers to service the website. I learned more about Mongoose to build the model to store and retrieve information about restaurants and tours available for the city, such as a thumbnail image, short description, and a link to the related website. I also added the current temperature and weather condition icon to the navbar for which I built a controller to pull the weather data from an external REST API.
 
+The framework of a CMS was begun and may be finished in the future to continue the learning process with Angular.
+
 Below are some of the highlights of the project.
 
 - [Back-End](#back-end)
