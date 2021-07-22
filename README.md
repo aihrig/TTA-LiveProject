@@ -21,7 +21,7 @@ Below are some of the highlights of the project.
 - [Restaurant Controller](#Restaurant-Controller)
 
 ## Weather Condition Controller
-This controller was designed to simply pull the current weather icon and temperature from an external REST API to be displayed on the front-end navbar.
+This controller was designed to pull the current weather condition icon and temperature from an external REST API to be displayed on the front-end navbar. I wanted to give the visitor an idea of what the environment might be like when traveling to the city.
 
 ```javascript
 const request = require('request');
@@ -45,7 +45,7 @@ exports.getLocalWeather = (req, routeRes) => {
 ```
 
 ## Restaurant Controller
-The restaurant controller utilized a Mongoose data model and retrieved/stored json data about individual restaurants.
+The restaurant controller was built to utilize a Mongoose data model and store/retrieve data about individual restaurants in the city.
 ```javascript
 const Restaurant = require('../models/restaurantModel');
 
@@ -143,7 +143,7 @@ exports.updateById = (req, res) => {
 - [Data service](#data-service)
 
 ## Tile Component
-I built a component that would render a tile with an animated thumbnail image, short description and an external link (the restaurant or tour in this case), so that changes to the design could be easily made anywhere it was used.
+I wanted to have a component that would render a tile with an animated thumbnail image, short description and an external link (the restaurant or tour in this case), so that changes to the design would be reflected anywhere it was used. 
 ```javascript
 import { Component, Input, OnInit } from '@angular/core';
 
@@ -189,7 +189,7 @@ export class TileComponent implements OnInit {
 ```
 
 ## Data Service
-A data service was constructed to handle retrieving various data from the backend, such as image path, a short description and link for the tiles, and the weather data.
+I wanted to manage all external calls from a single location, so I constructed a data service to handle retrieving various data from the backend for the tiles, such as image path, a short description and link for each item, and the weather data.
 ```typescript
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Injectable } from '@angular/core';
