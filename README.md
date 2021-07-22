@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For the last two weeks of my time on the JavaScript (including an advanced JavaScript course), I worked in an Agile/Scrum environment to build a tourism website to highlight activities for a particular city. We used Azure DevOps to manage user stories and code repos, and related knowledge about the project. The website was built mainly with Angular 12 and Bootstrap 5 on the front-end, and Node.JS, Express.JS, Mongoose, and MongoDB (Atlas) on the back-end.
+For the last two weeks of my time on the JavaScript (including an advanced JavaScript course), I worked in an Agile/Scrum environment to build a tourism website to highlight activities for a particular city. I wanted to create as much of an aesthetically pleasing application in the time available, and as such I focused on creating simple animations and color changes for the tiles that display each activity. We used Azure DevOps to manage user stories and code repos, and related knowledge about the project. The website was built mainly with Angular 12 and Bootstrap 5 on the front-end, and Node.JS, Express.JS, Mongoose, and MongoDB (Atlas) on the back-end.
 
 I've worked with HTML and CSS previously, but not at this level. So building the front-end from scratch was new for me and provided a great learning experience with Angular, CSS, Bootstrap, and TypeScript. I built several components to display tiles for each restaurant and tour in a basic responsive fashion, and a data service to retrieve the different sets of data.
 
